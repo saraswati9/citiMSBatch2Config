@@ -1,5 +1,5 @@
 server:
-  port: 8085
+  port: 8081
 
 spring:
   datasource:
@@ -13,3 +13,4 @@ spring:
       ddl-auto: update
   application:
     name: PRODUCT-SERVICE
+ app-details: abc
